@@ -1,1 +1,2 @@
-print("Goodbae word")
+print("Goodbye word")
+print("Godbye")
